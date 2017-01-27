@@ -28,12 +28,11 @@ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 ![logo-CC-BY](img/by.svg)   
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).
 
-Le fichier peut être téléchargé sur [...](...).   
-Les fichiers source sont disponibles sur [...](...).   
+Si vous souhaitez adapter ce document, les fichiers source sont disponibles sur [https://github.com/grolimur/UPL-privacy](https://github.com/grolimur/UPL-privacy).   
 
 
 ## Version `0.0.9`
-La dernière version de ce document est disponible sur [...](...).   
+La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/proteger-sa-vie-privee-sur-internet](https://www.gitbook.com/book/grolimur/proteger-sa-vie-privee-sur-internet).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   

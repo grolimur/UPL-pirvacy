@@ -7,33 +7,17 @@
 Commençons par définir ce que sont des données personnelles.   
 Dans la liste ci-dessous, surlignez en jaune les données personnelles !   
 
-`nom, prénom`   
-`adresse postale`   
-`e-mail`   
-`n° de téléphone`   
-`date de naissance`   
-`état civil`   
-`opinions politiques`   
-`opinions religieuses`   
-`opinions philosophiques`   
-`opinions syndicales`   
-`appartenance à une race`   
-`mesure d’aide sociale`   
-`poursuites`   
-`sanctions pénales et administratives`   
-`santé`   
-`données génétiques`   
-`données biométriques`   
-`vie sexuelle`   
-`photo`   
-`vidéo`   
-`extrait sonore`   
-`n° AVS`   
-`n° d’employé`   
-`n° de client`   
-`adresse IP`   
-`données de localisation`   
-`identifiant en ligne`   
+| . | . | . |
+| *- | *- | *- |
+| `nom, prénom` | `opinions politiques` | `photo` |
+| `adresse postale` | `opinions religieuses` | `vidéo` |
+| `e-mail` | `opinions philosophiques` | `extrait sonore` |
+| `n° de téléphone` | `opinions syndicales` | `n° AVS` |
+| `date de naissance` | `appartenance à une race` | `n° d’employé` |
+| `état civil` | `santé` | `n° de client` |
+| `mesure d’aide sociale` | `vie sexuelle` | `adresse IP` |
+| `poursuites` | `données génétiques` | `données de localisation` |
+| `sanctions pénales et administratives` | `données biométriques` | `identifiant en ligne` |
 
 
 ### Données sensibles
@@ -66,27 +50,20 @@ On paraît clair qu'en cas de litige, tout cela peut vite devenir compliqué et 
 La protection de vos données personnelles commence par le respect des quelques règles de sécurité rappelées ici.
 
 1. **Mettez à jour les logiciels** (systèmes d'exploitation inclus) installés sur vos ordinateurs/smartphones/tablettes, afin de minimiser les risques que des pirates profitent d'une faille de sécurité;
-
-Cela paraît évident, mais sans cela ce qui suit devient inutile. Comme il n'est pas nécessaire que votre appareil prenne des décisions pour vous, n'activez pas les mises à jour automatiques. Sélectionnez plutôt l'option du type "m'avertir dès qu'une mise à jour est disponible".
-
+   Cela paraît évident, mais sans cela ce qui suit devient inutile. Comme il n'est pas nécessaire que votre appareil prenne des décisions pour vous, n'activez pas les mises à jour automatiques. Sélectionnez plutôt l'option du type "m'avertir dès qu'une mise à jour est disponible".
 
 2. Choisissez des **mots de passe forts**: longs, sans signification, mélangeant lettres, chiffres et autres caractères, et différents pour site/service où vous avez un compte;
 
-Pour créer des mots de passe difficiles à casser, il y a plusieurs possibilités, notamment:   
-
+   Pour créer des mots de passe difficiles à casser, il y a plusieurs possibilités, notamment:   
    * À partir des initiales d'une phrase
    * À partir 4 mots sans lien les uns avec les autres
    * À l'aide d'un générateur de texte aléatoire
    * À l'aide d'un gestionnaire de mots de passe
-
-Vous trouverez des détails à ce sujet dans la section [*Pour aller plus loin*](05-pour-aller-plus-loin.md) à la fin de ce document.
-
+   Vous trouverez des détails à ce sujet dans la section [*Pour aller plus loin*](05-pour-aller-plus-loin.md) à la fin de ce document.
 
 3. Utilisez une **connexion sécurisée** lorsque vous surfez.
 
-Assurez-vous que les sites que vous visitez fournissent un accès sécurisé en vérifiant qu'il y a bien un cadenas dans la barre d'adreese de votre navigateur.   
-Vous avez peut-être déjà constaté que c'est le cas sur le site de l'UPL. :-)   
-Si ce n'est pas le cas, la capture d'écran ci-dessous vous le montre.
+   Assurez-vous que les sites que vous visitez fournissent un accès sécurisé en vérifiant qu'il y a bien un cadenas dans la barre d'adreese de votre navigateur. Vous avez peut-être déjà constaté que c'est le cas sur le site de l'UPL. :-) Si ce n'est pas le cas, la capture d'écran ci-dessous vous le montre.
 
 ![Connexion sécurisée au site de l'UPL](img/https.png)
 
