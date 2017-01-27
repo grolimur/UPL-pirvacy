@@ -8,7 +8,7 @@ Commençons par définir ce que sont des données personnelles.
 Dans la liste ci-dessous, surlignez en jaune les données personnelles !   
 
 | . | . | . |
-| *- | *- | *- |
+| :- | :- | :- |
 | `nom, prénom` | `opinions politiques` | `photo` |
 | `adresse postale` | `opinions religieuses` | `vidéo` |
 | `e-mail` | `opinions philosophiques` | `extrait sonore` |
