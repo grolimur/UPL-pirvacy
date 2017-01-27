@@ -21,7 +21,8 @@ POUHIOU. 10 trucs que j’ignorais sur Internet et mon ordi (avant de m’y int�
 VAUBOURG, Julien, 2014. *Rien à cacher* [en ligne]. 18 avril 2014. [Consulté le 25 janvier 2017]. Journée ISN 2014. Disponible à l’adresse : [https://www.youtube.com/watch?v=BRrk5_-kXHw](https://www.youtube.com/watch?v=BRrk5_-kXHw)
 
 
-Il n'y a là qu'une sélection de lectures. Je n'ai retenu dans la liste ci-dessus que des références récentes, en français et ayant un intérêt pour un utilisateur suisse.   
+Il n'y a là qu'une sélection de lectures. Je n'ai retenu dans la liste ci-dessus que des références récentes, en français et ayant un intérêt pour un utilisateur suisse.
+
 Cette bibliographie est mise à jour régulièrement. La bibliographie complète et à jour est disponible en ligne: [https://www.zotero.org/groups/proteger-sa-vie-privee-sur-internet/items](https://www.zotero.org/groups/proteger-sa-vie-privee-sur-internet/items).
 
 

@@ -1,6 +1,6 @@
 ## Mots de passe à partir 4 mots sans lien les uns avec les autres
 
-![Robustesse d'un mot de passe](img/password_strength.png)
+![Robustesse d'un mot de passe](../img/password_strength.png)
 
 L'illustration ci-dessus part du constat que nous créons souvent des mots de passe **compliqué (pour nous) à retenir, mais facile (pour un ordinateur) à deviner**. Tout le contraire du but recherché en somme!   
 Dans un 2e temps, elle donne une solution simple pour résoudre ce problème. Prendre 4 mots sans lien les uns avec les autres:
