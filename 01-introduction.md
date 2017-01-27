@@ -7,33 +7,33 @@
 Commençons par définir ce que sont des données personnelles.   
 Dans la liste ci-dessous, surlignez en jaune les données personnelles !   
 
-nom, prénom   
-adresse postale   
-e-mail   
-n° de téléphone   
-date de naissance   
-état civil   
-opinions politiques   
-opinions religieuses   
-opinions philosophiques   
-opinions syndicales   
-appartenance à une race   
-mesure d’aide sociale   
-poursuites   
-sanctions pénales et administratives   
-santé   
-données génétiques   
-données biométriques   
-vie sexuelle   
-photo   
-vidéo   
-extrait sonore   
-n° AVS   
-n° d’employé   
-n° de client   
-adresse IP   
-données de localisation   
-identifiant en ligne   
+`nom, prénom`   
+`adresse postale`   
+`e-mail`   
+`n° de téléphone`   
+`date de naissance`   
+`état civil`   
+`opinions politiques`   
+`opinions religieuses`   
+`opinions philosophiques`   
+`opinions syndicales`   
+`appartenance à une race`   
+`mesure d’aide sociale`   
+`poursuites`   
+`sanctions pénales et administratives`   
+`santé`   
+`données génétiques`   
+`données biométriques`   
+`vie sexuelle`   
+`photo`   
+`vidéo`   
+`extrait sonore`   
+`n° AVS`   
+`n° d’employé`   
+`n° de client`   
+`adresse IP`   
+`données de localisation`   
+`identifiant en ligne`   
 
 
 ### Données sensibles
