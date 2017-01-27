@@ -14,6 +14,9 @@
     * [Moteur de recherche](03-cloud/02-moteur.md)
     * [Messagerie](03-cloud/03-messagerie.md)
 * [Mobile](04-mobile.md)
-* [Pour aller plus loin](05-pour-aller-plus-loin.md)
+* [Pour aller plus loin](05-pour-aller-plus-loin/README.md)
+    * [Mots de passe à partir des initiales d'une phrase](05-pour-aller-plus-loin/01-initiales.md)
+    * [Mots de passe à partir de 4 mots sans lien les uns avec les autres](05-pour-aller-plus-loin/02-4-mots.md)
+    * [Gestionnaire de mots de passe](05-pour-aller-plus-loin/03-gestionnaire-de-mots-de-passe.md)
 * [Bibliographie et crédits](X-bibliographie-credits.md)
 

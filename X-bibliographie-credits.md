@@ -22,22 +22,25 @@ VAUBOURG, Julien, 2014. *Rien à cacher* [en ligne]. 18 avril 2014. [Consulté�
 
 
 Il n'y a là qu'une sélection de lectures. Je n'ai retenu dans la liste ci-dessus que des références récentes, en français et ayant un intérêt pour un utilisateur suisse.   
-La bibliographie complète et à jour est disponible  en ligne: [https://www.zotero.org/groups/proteger-sa-vie-privee-sur-internet/items](https://www.zotero.org/groups/proteger-sa-vie-privee-sur-internet/items).
+Cette bibliographie est mise à jour régulièrement. La bibliographie complète et à jour est disponible en ligne: [https://www.zotero.org/groups/proteger-sa-vie-privee-sur-internet/items](https://www.zotero.org/groups/proteger-sa-vie-privee-sur-internet/items).
+
 
 
 ## Crédits
 
 Toutes les icônes utilisées dans ce support de cours et listées ci-dessous (par ordre d'apparition) ont été publiées sous licence libre sur [thenounproject.com](thenounproject.com) et [flaticon.com](flaticon.com) :
 
-**CC BY** *Mozilla Firefox free icon* by Icomoon [http://www.flaticon.com/free-icon/mozilla-firefox_24131](http://www.flaticon.com/free-icon/mozilla-firefox_24131)
-**CC BY** *Safari Logo free icon* by AnhGreen [http://www.flaticon.com/free-icon/safari-logo_110380](http://www.flaticon.com/free-icon/safari-logo_110380)
 **CC BY** *Chrome free icon* by Icomoon [http://www.flaticon.com/free-icon/chrome_23689](http://www.flaticon.com/free-icon/chrome_23689)
-**CC BY** *Opera free icon* by Icomoon [http://www.flaticon.com/free-icon/opera_24606](http://www.flaticon.com/free-icon/opera_24606)
+**CC BY** *Mozilla Firefox free icon* by Icomoon [http://www.flaticon.com/free-icon/mozilla-firefox_24131](http://www.flaticon.com/free-icon/mozilla-firefox_24131)
 **CC BY** *Internet explorer free icon* by Icomoon [http://www.flaticon.com/free-icon/internet-explorer_23638](http://www.flaticon.com/free-icon/internet-explorer_23638)
+**CC BY** *Opera free icon* by Icomoon [http://www.flaticon.com/free-icon/opera_24606](http://www.flaticon.com/free-icon/opera_24606)
+**CC BY** *Safari Logo free icon* by AnhGreen [http://www.flaticon.com/free-icon/safari-logo_110380](http://www.flaticon.com/free-icon/safari-logo_110380)
 
 **CC BY** *Hatchback* By Jonathan Li [https://thenounproject.com/term/hatchback/197026/](https://thenounproject.com/term/hatchback/197026/)
 **CC BY** *Navigation GPS* By Aaron K. Kim [https://thenounproject.com/term/navigation-gps/166702/](https://thenounproject.com/term/navigation-gps/166702/)
 **CC BY** *Box* By Francesco Terzini [https://thenounproject.com/term/box/52383/](https://thenounproject.com/term/box/52383/)
 **CC BY** *Mailbox* By Calvin Goodman [https://thenounproject.com/term/mailbox/154335/](https://thenounproject.com/term/mailbox/154335/)
 **CC BY** *Credit Card* By Rediffusion [https://thenounproject.com/term/credit-card/123857/](https://thenounproject.com/term/credit-card/123857/)
+
+**CC BY-NC** *Password Strength* by xkcd [https://xkcd.com/936/](https://xkcd.com/936/)
 

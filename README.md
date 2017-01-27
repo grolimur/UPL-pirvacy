@@ -4,7 +4,7 @@
 Les présentes notes du cours ont été distribuées aux participants du cours *Protéger sa vie privée sur Internet* (cours n° 509) dispensé dans le cadre du programme automne/hiver 2016-2017 de l'Université populaire de Lausanne ([http://www.uplausanne.ch](http://www.uplausanne.ch)).   
 
 ![logo UPL](img/logo_UPL.jpeg)   
-Les cours de l'Université populaire sont destinés à tout le monde. Le contenu de ce cours est donc adapté au grand public.   
+Les cours de l'Université populaire de Lausanne sont destinés à tout le monde. Le contenu de ce cours est donc adapté au grand public.   
 
 **NOTE**: La 4e édition de cette formation tombait le 28 janvier, date de la [journée européenne de la protection des données](http://www.coe.int/fr/web/portal/28-january-data-protection-day).   
 Amusant, non?
