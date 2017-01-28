@@ -7,7 +7,7 @@
 Commençons par définir ce que sont des données personnelles.   
 Dans la liste ci-dessous, surlignez en jaune les données personnelles !   
 
-| . | . | . |
+|  |  |  |
 | :- | :- | :- |
 | `nom, prénom` | `opinions politiques` | `photo` |
 | `adresse postale` | `opinions religieuses` | `vidéo` |
@@ -29,14 +29,14 @@ Parmi les données personnelles, il y a une sous-catégorie de données particul
 
 Loi fédérale sur la protection des données les définit comme suit ([LPD art. 3 al. a-c](https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html#a3)) :
 
-> On entend par:
-> a. données personnelles (données), toutes les informations qui se rapportent à une personne identifiée ou identifiable;
-> b. personne concernée, la personne physique ou morale au sujet de laquelle des données sont traitées;
-> c. données sensibles, les données personnelles sur: 
->   1. les opinions ou activités religieuses, philosophiques, politiques ou syndicales,
->   2. la santé, la sphère intime ou l'appartenance à une race,
->   3. des mesures d'aide sociale,
->   4. des poursuites ou sanctions pénales et administratives;
+> On entend par:   
+> a. données personnelles (données), toutes les informations qui se rapportent à une personne identifiée ou identifiable;   
+> b. personne concernée, la personne physique ou morale au sujet de laquelle des données sont traitées;   
+> c. données sensibles, les données personnelles sur:   
+> __ 1. les opinions ou activités religieuses, philosophiques, politiques ou syndicales,   
+> __ 2. la santé, la sphère intime ou l'appartenance à une race,   
+> __ 3. des mesures d'aide sociale,   
+> __ 4. des poursuites ou sanctions pénales et administratives;   
 
 À cela s’ajoute un élément supplémentaire ([LPD art. 3 al. d](https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html#a3)) :
 
