@@ -33,10 +33,10 @@ Loi fédérale sur la protection des données les définit comme suit ([LPD art.
 > a. données personnelles (données), toutes les informations qui se rapportent à une personne identifiée ou identifiable;   
 > b. personne concernée, la personne physique ou morale au sujet de laquelle des données sont traitées;   
 > c. données sensibles, les données personnelles sur:   
-> _ 1. les opinions ou activités religieuses, philosophiques, politiques ou syndicales,   
-> _ 2. la santé, la sphère intime ou l'appartenance à une race,   
-> _ 3. des mesures d'aide sociale,   
-> _ 4. des poursuites ou sanctions pénales et administratives;   
+> > 1. les opinions ou activités religieuses, philosophiques, politiques ou syndicales,   
+> > 2. la santé, la sphère intime ou l'appartenance à une race,   
+> > 3. des mesures d'aide sociale,   
+> > 4. des poursuites ou sanctions pénales et administratives;   
 
 À cela s’ajoute un élément supplémentaire ([LPD art. 3 al. d](https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html#a3)) :
 
