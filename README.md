@@ -32,13 +32,14 @@ Cette œuvre est mise à disposition selon les termes de la [Licence Creative Co
 Si vous souhaitez adapter ce document, les fichiers source sont disponibles sur [https://github.com/grolimur/UPL-privacy](https://github.com/grolimur/UPL-privacy).   
 
 
-## Version `0.1`
+## Version `0.1.1`
 La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/proteger-sa-vie-privee-sur-internet](https://www.gitbook.com/book/grolimur/proteger-sa-vie-privee-sur-internet).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
 *Historique des versions*   
 **0.0.9**: version initiale (27.02.2017)   
 **0.1**: 1ère version complète (28.02.2017)   
+**0.1.1**: corr. mise en forme (19.03.2017)   
 
 ## Informations complémentaires
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   

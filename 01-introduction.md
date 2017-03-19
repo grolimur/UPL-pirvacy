@@ -7,8 +7,8 @@
 Commençons par définir ce que sont des données personnelles.   
 Dans la liste ci-dessous, surlignez en jaune les données personnelles !   
 
-|  |  |  |
-| :- | :- | :- |
+| ... | ... | ... |
+| :-- | :-- | :-- |
 | `nom, prénom` | `opinions politiques` | `photo` |
 | `adresse postale` | `opinions religieuses` | `vidéo` |
 | `e-mail` | `opinions philosophiques` | `extrait sonore` |
@@ -18,7 +18,6 @@ Dans la liste ci-dessous, surlignez en jaune les données personnelles !
 | `mesure d’aide sociale` | `vie sexuelle` | `adresse IP` |
 | `poursuites` | `données génétiques` | `données de localisation` |
 | `sanctions pénales et administratives` | `données biométriques` | `identifiant en ligne` |
-
 
 ### Données sensibles
 
